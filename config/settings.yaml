@@ -1,0 +1,7 @@
+# Configuración general del proyecto (sin secretos: esos van en .env)
+project:
+  name: ai-automation
+  environment: development
+paths:
+  data_dir: data
+  notebooks_dir: notebooks
